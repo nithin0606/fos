@@ -22,6 +22,5 @@ Open the project folder and locate the config.php file.
 Update the database connection settings with your database details (hostname, username, password, database name).
 Access the Application:
 
-Open your browser and navigate to http://localhost/food-ordering-system to view and use the application.
 Contact
 For any questions or support, please contact us at nithiigowda06@gmail.com
