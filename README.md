@@ -17,10 +17,6 @@ Clone the Repository:
 Copy the project folder (food-ordering-system) into the htdocs directory inside your XAMPP installation folder (e.g., C:\xampp\htdocs\ on Windows).
 Set Up the Database:
 
-Open phpMyAdmin by navigating to http://localhost/phpmyadmin in your browser.
-Create a new database for the project (e.g., food_ordering_db).
-Import the database schema provided in the project folder (usually found in database or sql folder).
-Configure Database Connection:
 
 Open the project folder and locate the config.php file.
 Update the database connection settings with your database details (hostname, username, password, database name).
@@ -28,4 +24,4 @@ Access the Application:
 
 Open your browser and navigate to http://localhost/food-ordering-system to view and use the application.
 Contact
-For any questions or support, please contact us at support@example.com.
+For any questions or support, please contact us at nithiigowda06@gmail.com
